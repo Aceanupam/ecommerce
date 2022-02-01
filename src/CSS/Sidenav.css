@@ -1,0 +1,19 @@
+.SideNav{
+    display:grid;
+    grid-template-rows: 7% 7% 7% 7% 7% auto;
+}
+.SideNav a{
+    padding-top: 7%;
+    text-decoration: none;
+    text-align: center;
+    color:white;
+    padding: 2px;
+    border-width: 1px;
+    border-color: white;
+    background-color: yellowgreen;
+    margin: 1px;
+}
+
+.SideNav a :hover{
+    color: tomato;
+}

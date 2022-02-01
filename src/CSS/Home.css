@@ -1,0 +1,8 @@
+
+.Home{
+    display:grid;
+    height:100%;
+    background-color: white;
+    grid-template-columns: 20% auto;
+    grid-template-rows: auto;
+}
